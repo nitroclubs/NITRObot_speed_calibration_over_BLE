@@ -1,1 +1,1 @@
-# NITRObot_speed_calibration_over_BLE
+Callibration using HM 10 or other Bluetooth BLE module
